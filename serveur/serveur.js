@@ -20,9 +20,8 @@ app.use((req, res, next) => {
     );
     next();
   });
-app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
-app.use(express.json());
+// app.use(express.json());
 
 const csvFilePath = path.join(__dirname, '../data/users.csv');
 const csvWriter = createCsvWriter({
