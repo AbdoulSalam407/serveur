@@ -1,40 +1,30 @@
-category,name,image,description,price,type
-electronics,Électronique,../img/electronics.jpg,,0,category
-clothing,Vêtements et accessoires,../img/clothing.jpg,,0,category
-home_garden,Maison et Jardin,../img/home_garden.jpg,,0,category
-beauty_health,Beauté et santé,../img/beauty_health.jpg,,0,category
-sports_leisure,Sport et loisir,../img/sports_leisure.jpg,,0,category
-
-electronics,Téléphone en promotion,../img/promo_telephone.webp,30% de réduction,50000,promotion
-clothing,Chaussures en cuir,../img/promo_chaussures.webp,30% de réduction,30000,promotion
-home_garden,Machine à laver,../img/promo_washing-machine.webp,30% de réduction,150000,promotion
-beauty_health,Cosmétique tube,../img/promo_cosmetic-tube.png,30% de réduction,2100,promotion
-
-clothing,Polo,../img/promo_polo.jpg,30% de réduction,10000,promotion
-electronics,Laptop Macbook,../img/populaire_laptop.webp,,500000,populaire
-clothing,Vêtements populaire,../img/populaire_vetements.jpg,,5000,populaire
-home_garden,Meubles,../img/populaire_meuble.webp,,200000,populaire
-beauty_health,Produits de santé,../img/populaire_produit_sante.jpg,,2000,populaire
-sports_leisure,Décodeur de jeux,../img/populaire_decodeur_jeux.webp,,30000,populaire
-
-electronics,Télévision recommandée,../img/reco_television.webp,,20000,recommendation
-clothing,Accessoires,../img/reco_accessories.webp,,10000,recommendation
-home_garden,Outil de jardinage,../img/reco_jadinage_outil.webp,,75000,recommendation
-beauty_health,Cosmétique,../img/reco_cosmetic.webp,,30000,recommendation
-sports_leisure,Ballon de football recommandé,../img/reco_ballon.png,Description du Ballon de football recommandé,10000,recommendation
-
-beauty_health,Crème anti-âge,../img/age_killer.jpg,,4000,product
-beauty_health,Shampooing revitalisant,../img/shampooing.png,,2000,product
-clothing,Robe de soirée,../img/robe-soiree.png,Description de la robe de soirée,5000,product
-clothing,T-shirt à rayures,../img/T-shirt.png,Description du T-shirt à rayures,3000,product
-clothing,Sac et portefeuille,../img/sac_portefeuille.webp,Description des Sac et des portefeuille,3000,product
-
-electronics,Ordinateur de bureau,../img/ordi-bureau.jpg,Marque : Mackbook-bureau,150000,product
-electronics,Ordinateur portable ASUS,../img/ordinateur-ASUS.png,Marque : ASUS,200000,product
-electronics,Téléphone portable,../img/telephone-Iphone.png,Marque : Iphone,125000,product
-electronics,Imprimente,../img/imprimente.png,Marque : LG,50000,product
-
-home_garden,Table de jardin,../img/table_jardin.webp,Description de la table de jardin,50000,product
-
-sports_leisure,Vélo de montagne,../img/electric-bike.webp,Description du vélo de montagne,100000,product
-sports_leisure,Raquette de tennis,../img/racket.webp,Description de la raquette de tennis,60000,product
+categorie,nom,image,description,prix,type
+electronics,Téléphone en promotion,../img/promo_telephone.webp, Bénéficiez d'une réduction exceptionnelle de 30% sur ce téléphone Samsung. Profitez de ses fonctionnalités avancées et de son design élégant à un prix imbattable. Ne manquez pas cette offre !,50 000 FCFA,promotion
+clothing,Chaussures en cuir,../img/promo_chaussures.webp, Profitez de cette offre exceptionnelle sur nos chaussures en cuir. Confortables élégantes et parfaites pour toutes les occasions. Ne manquez pas cette promotion limitée !,30 000 FCFA,promotion
+home_garden,Machine à laver,../img/promo_washing-machine.webp,30% de réduction,150 000 FCFA,promotion
+beauty_health,Cosmétique tube,../img/promo_cosmetic-tube.png,Découvrez notre cosmétique tube en promotion idéal pour votre routine de soins. Profitez de cette offre spéciale et bénéficiez d'une réduction sur ce produit incontournable !,2 100 FCFA,promotion
+clothing,Polo,../img/promo_polo.jpg,Profitez de notre offre spéciale sur les polos de haute qualité. Idéal pour un look élégant et décontracté ce polo est maintenant disponible à un prix réduit. Ne manquez pas cette occasion !,10 000 FCFA,promotion
+electronics,Laptop Macbook,../img/populaire_laptop.webp,Ce MacBook offre des performances exceptionnelles et un design élégant parfait pour les professionnels et les créateurs. Avec son écran haute résolution et son autonomie prolongée il est idéal pour le travail et le divertissement.,500 000 FCFA,populaire
+clothing,Vêtements populaire,../img/populaire_vetements.jpg,Explorez notre collection de vêtements populaires alliant confort et style. Parfaits pour toutes les occasions ces vêtements vous permettront de rester tendance tout en étant à l'aise.,5 000 FCFA,populaire
+home_garden,Meubles,../img/populaire_meuble.webp,Transformez votre espace avec ces meubles populaires conçus pour allier confort et esthétique. Parfaits pour embellir votre maison tout en offrant une fonctionnalité optimale.,200 000 FCFA,populaire
+beauty_health,Produits de santé,../img/populaire_produit_sante.jpg,Découvrez notre gamme de produits de santé populaires conçus pour améliorer votre bien-être au quotidien. Des solutions naturelles et efficaces pour rester en bonne santé.,2 000 FCFA,populaire
+sports_leisure,Décodeur de jeux,../img/populaire_decodeur_jeux.webp,Profitez de vos jeux préférés avec ce décodeur de jeux populaire conçu pour offrir des performances de haute qualité et une expérience de jeu immersive. Idéal pour les amateurs de jeux vidéo cherchant à améliorer leur setup de jeu.,30 000 FCFA,populaire
+electronics,Télévision recommandée,../img/reco_television.webp,Découvrez notre télévision recommandée offrant une qualité d'image exceptionnelle et une expérience de visionnage immersive. Idéale pour améliorer votre divertissement à domicile avec une résolution claire et des fonctionnalités modernes.,20 000 FCFA,recommendation
+clothing,Accessoires,../img/reco_accessories.webp,Découvrez nos accessoires recommandés parfaits pour compléter votre style et répondre à vos besoins quotidiens. Qualité et durabilité sont au rendez-vous pour ces articles soigneusement sélectionnés.,10 000 FCFA,recommendation
+clothing,Accessoires,../img/clothing.jpg,Découvrez notre collection de vêtements et accessoires de haute qualité. Choisissez parmi une large gamme de styles parfaits pour toutes les occasions.,50 000 FCFA,recommendation
+home_garden,Outil de jardinage,../img/reco_jadinage_outil.webp,Découvrez notre sélection d'outils de jardinage recommandés conçus pour rendre vos tâches de jardinage plus efficaces et agréables. Que vous soyez un amateur ou un professionnel ces outils sont faits pour durer et offrir un excellent rendement.,75 000 FCFA,recommendation
+beauty_health,Cosmétique,../img/reco_cosmetic.webp, Découvrez notre cosmétique recommandé formulé pour offrir des résultats exceptionnels. Ce produit est idéal pour améliorer votre routine de soins et garantir une peau radieuse et bien entretenue.,30 000 FCFA,recommendation
+sports_leisure,Ballon de football recommandé,../img/reco_ballon.png,Ce ballon de football est recommandé pour les joueurs de tous niveaux. Conçu pour offrir une performance optimale il est idéal pour les entraînements et les matchs. Profitez de sa durabilité et de son excellente prise en main.,10 000 FCFA,recommendation
+beauty_health,Crème anti-âge,../img/age_killer.jpg,Découvrez la crème anti-âge ultime qui lutte contre les signes du vieillissement. Formulée avec des ingrédients actifs tels que l'acide hyaluronique le rétinol et des antioxydants puissants elle hydrate en profondeur réduit les rides et raffermit la peau pour un teint éclatant et jeune. Utilisez-la quotidiennement pour une peau visiblement plus lisse et plus radieuse.,4 000 FCFA,product
+beauty_health,Shampooing revitalisant,../img/shampooing.png,Ce shampooing revitalisant est spécialement formulé pour nourrir et revitaliser vos cheveux. Grâce à ses ingrédients actifs il nettoie en douceur tout en apportant hydratation et éclat. Idéal pour tous types de cheveux.,2 000 FCFA,product
+clothing,Robe de soirée,../img/robe-soiree.png,Découvrez notre élégante robe de soirée parfaite pour vos événements spéciaux. Conçue avec des matériaux de haute qualité cette robe vous garantira un look chic et raffiné pour toutes vos occasions.,5 000 FCFA,product
+clothing,T-shirt à rayures,../img/T-shirt.png,Ce T-shirt à rayures allie confort et style. Fabriqué en coton de haute qualité il est doux au toucher et agréable à porter. Idéal pour un look décontracté il se marie parfaitement avec tous vos vêtements casual.,3 000 FCFA,product
+clothing,Sac et portefeuille,../img/sac_portefeuille.webp,Découvrez notre ensemble élégant de sac et portefeuille parfait pour vos sorties quotidiennes ou vos occasions spéciales. Fabriqué avec des matériaux de haute qualité ce duo allie style et fonctionnalité.,3 000 FCFA,product
+electronics,Ordinateur de bureau,../img/ordi-bureau.jpg,Cet ordinateur de bureau offre une performance exceptionnelle pour toutes vos tâches quotidiennes. Avec ses composants puissants et sa conception élégante il est parfait pour un usage professionnel ou personnel.,150 000 FCFA,product
+electronics,Ordinateur portable ASUS,../img/ordinateur-ASUS.png, Découvrez cet ordinateur portable ASUS de haute performance idéal pour le travail et le divertissement. Avec ses caractéristiques avancées et son design élégant il répondra à toutes vos attentes.,200 000 FCFA,product
+electronics,Téléphone portable,../img/telephone-Iphone.png,Découvrez le dernier modèle d'iPhone avec ses fonctionnalités avancées et son design élégant. Profitez d'une performance exceptionnelle d'une caméra haute résolution et d'une expérience utilisateur inégalée. Idéal pour les passionnés de technologie et les amateurs de design moderne.,125 000 FCFA,product
+electronics,Imprimente,../img/imprimente.png,Découvrez cette imprimante de haute qualité idéale pour toutes vos impressions quotidiennes. Facile à utiliser et offrant une excellente résolution elle est parfaite pour un usage domestique ou au bureau.,50 000 FCFA,product
+home_garden,Table de jardin,../img/table_jardin.webp,Cette table de jardin élégante est parfaite pour profiter de vos repas en plein air. Fabriquée avec des matériaux durables et résistants aux intempéries elle allie style et fonctionnalité. Idéale pour vos espaces extérieurs elle apportera une touche de confort et d'élégance à votre jardin.,50 000 FCFA,product
+home_garden,Table de jardin,../img/home_garden.jpg,Transformez votre maison et jardin avec des produits de qualité supérieure. Que ce soit pour un projet de rénovation ou pour améliorer votre espace extérieur découvrez une sélection d'articles qui apporteront confort et style à votre domicile.,100 000 000 FCFA,product
+sports_leisure,Vélo de montagne,../img/electric-bike.webp,Profitez de l'aventure avec ce vélo de montagne robuste et performant. Conçu pour les terrains difficiles  il offre une expérience de conduite fluide et agréable tout en assurant votre sécurité et confort.,100 000 FCFA,product
+sports_leisure,Raquette de tennis,../img/racket.webp,Cette raquette de tennis de haute qualité est conçue pour offrir des performances optimales sur le court. Idéale pour les joueurs de tous niveaux elle combine légèreté et durabilité pour un jeu puissant et précis.,60 000 FCFA,product
