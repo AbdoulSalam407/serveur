@@ -1,0 +1,40 @@
+category,name,image,description,price,type
+electronics,Électronique,../img/electronics.jpg,,0,category
+clothing,Vêtements et accessoires,../img/clothing.jpg,,0,category
+home_garden,Maison et Jardin,../img/home_garden.jpg,,0,category
+beauty_health,Beauté et santé,../img/beauty_health.jpg,,0,category
+sports_leisure,Sport et loisir,../img/sports_leisure.jpg,,0,category
+
+electronics,Téléphone en promotion,../img/promo_telephone.webp,30% de réduction,50000,promotion
+clothing,Chaussures en cuir,../img/promo_chaussures.webp,30% de réduction,30000,promotion
+home_garden,Machine à laver,../img/promo_washing-machine.webp,30% de réduction,150000,promotion
+beauty_health,Cosmétique tube,../img/promo_cosmetic-tube.png,30% de réduction,2100,promotion
+
+clothing,Polo,../img/promo_polo.jpg,30% de réduction,10000,promotion
+electronics,Laptop Macbook,../img/populaire_laptop.webp,,500000,populaire
+clothing,Vêtements populaire,../img/populaire_vetements.jpg,,5000,populaire
+home_garden,Meubles,../img/populaire_meuble.webp,,200000,populaire
+beauty_health,Produits de santé,../img/populaire_produit_sante.jpg,,2000,populaire
+sports_leisure,Décodeur de jeux,../img/populaire_decodeur_jeux.webp,,30000,populaire
+
+electronics,Télévision recommandée,../img/reco_television.webp,,20000,recommendation
+clothing,Accessoires,../img/reco_accessories.webp,,10000,recommendation
+home_garden,Outil de jardinage,../img/reco_jadinage_outil.webp,,75000,recommendation
+beauty_health,Cosmétique,../img/reco_cosmetic.webp,,30000,recommendation
+sports_leisure,Ballon de football recommandé,../img/reco_ballon.png,Description du Ballon de football recommandé,10000,recommendation
+
+beauty_health,Crème anti-âge,../img/age_killer.jpg,,4000,product
+beauty_health,Shampooing revitalisant,../img/shampooing.png,,2000,product
+clothing,Robe de soirée,../img/robe-soiree.png,Description de la robe de soirée,5000,product
+clothing,T-shirt à rayures,../img/T-shirt.png,Description du T-shirt à rayures,3000,product
+clothing,Sac et portefeuille,../img/sac_portefeuille.webp,Description des Sac et des portefeuille,3000,product
+
+electronics,Ordinateur de bureau,../img/ordi-bureau.jpg,Marque : Mackbook-bureau,150000,product
+electronics,Ordinateur portable ASUS,../img/ordinateur-ASUS.png,Marque : ASUS,200000,product
+electronics,Téléphone portable,../img/telephone-Iphone.png,Marque : Iphone,125000,product
+electronics,Imprimente,../img/imprimente.png,Marque : LG,50000,product
+
+home_garden,Table de jardin,../img/table_jardin.webp,Description de la table de jardin,50000,product
+
+sports_leisure,Vélo de montagne,../img/electric-bike.webp,Description du vélo de montagne,100000,product
+sports_leisure,Raquette de tennis,../img/racket.webp,Description de la raquette de tennis,60000,product
